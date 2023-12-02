@@ -1,0 +1,44 @@
+body {
+    background-color: #c7b3b3;
+}
+
+
+#h4footer {
+
+    margin-top: 3%;
+    font-size: small;
+}
+
+#fon1 {
+    font-family: 'Grandstander', cursive;
+}
+
+.font1 {
+    font-family: 'Grandstander', cursive;
+}
+
+#resultShow::after {
+    content: "";
+    clear: both;
+    display: table;
+
+}
+
+.result {
+    float: left;
+    width: 49.995%;
+
+}
+
+#img3 {
+    width: 50%;
+    align-self: center;
+}
+
+#img3:hover {
+    border-radius: 50%;
+}
+
+#img2:hover {
+    border-radius: 50%;
+}
